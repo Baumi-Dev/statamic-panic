@@ -1,9 +1,9 @@
 {
-    "name": "my-vendor-name/statamic-panic",
-    "extra": {
-        "statamic": {
-            "name": "Statamic Panic",
-            "description": "Statamic Panic starter kit"
-        }
-    }
+	"name": "baumi-dev/statamic-panic",
+	"extra": {
+		"statamic": {
+			"name": "Statamic Panic",
+			"description": "Visual1 starter kit for Statamic"
+		}
+	}
 }
