@@ -2,7 +2,6 @@ export_paths:
     - config
     - content
     - database
-    - Models
     - public
     - resources
     - .env.example
