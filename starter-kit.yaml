@@ -1,0 +1,14 @@
+export_paths:
+  - config
+  - content
+  - database
+  - public
+  - resources
+  - .env.example
+  - package.json
+  - README.md
+  - tailwind.config.js
+  - vite.config.js
+dependencies:
+  gerttimmerman/statamic-zapier: ^1.6
+  statamic/eloquent-driver: ^4.14

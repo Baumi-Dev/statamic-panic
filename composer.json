@@ -1,0 +1,9 @@
+{
+    "name": "my-vendor-name/statamic-panic",
+    "extra": {
+        "statamic": {
+            "name": "Statamic Panic",
+            "description": "Statamic Panic starter kit"
+        }
+    }
+}
