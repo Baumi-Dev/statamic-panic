@@ -2,7 +2,7 @@
 
 ## Visual1 Starter Kit
 
-1. statamic new {{ project_name }} baumi-dev/starter-kit
+1. statamic new {{ project_name }} baumi-dev/statamic-panic
 2. cd {{ project_name }}
 3. composer install
 4. Create mysql database
